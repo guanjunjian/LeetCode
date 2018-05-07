@@ -7,6 +7,7 @@
 |  1   | 两数之和 | [O](Solution/1.Two-Sum.md) |    Easy    | 数组 |
 |  2   | 两数相加 | [O](Solution/2.两数相加.md) |    Medium    | 链表 |
 |  3   | 无重复字符的最长子串 | [O](Solution/3.无重复字符的最长子串.md) |    Medium    | 动态规划 \| 字符串 |
+|  5   | 最长回文子串 | [O](Solution/5.最长回文子串.md) |    Medium    | 字符串 |
 |  9 | 回文数 | [O](Solution/9.Palindrome-Number.md) |    Easy    | 字符串 |
 |  26   | 删除排序数组中的重复项 | [O](Solution/26.删除排序数组中的重复项.md) |    Easy    | 数组 |
 | 35 | 搜索插入位置 | [O](Solution/35.Search-Insert-Position.md) | Easy | 数组 \| 二分查找 |
