@@ -9,6 +9,7 @@
 |  3   | 无重复字符的最长子串 | [O](Solution/3.无重复字符的最长子串.md) |    Medium    | 动态规划 \| 字符串 |
 |  5   | 最长回文子串 | [O](Solution/5.最长回文子串.md) |    Medium    | 字符串 |
 |  7   | 反转整数 | [O](Solution/7.反转整数.md) |    Easy    | 数字 |
+|  8   | 字符串转整数 | [O](Solution/8.字符串转整数.md) |    Medium    | 字符串 |
 |  9 | 回文数 | [O](Solution/9.Palindrome-Number.md) |    Easy    | 字符串 |
 |  26   | 删除排序数组中的重复项 | [O](Solution/26.删除排序数组中的重复项.md) |    Easy    | 数组 |
 | 35 | 搜索插入位置 | [O](Solution/35.Search-Insert-Position.md) | Easy | 数组 \| 二分查找 |
