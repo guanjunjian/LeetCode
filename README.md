@@ -12,6 +12,7 @@
 |  8   | 字符串转整数 | [O](Solution/8.字符串转整数.md) |    Medium    | 字符串 |
 |  9 | 回文数 | [O](Solution/9.Palindrome-Number.md) |    Easy    | 字符串 |
 |  11 | 盛最多水的容器 | [O](Solution/11.盛最多水的容器.md) |    Medium    | 数组 |
+|  13 | 罗马数字转整数 | [O](Solution/13.罗马数字转整数.md) |    Easy    | 字符串 |
 |  26   | 删除排序数组中的重复项 | [O](Solution/26.删除排序数组中的重复项.md) |    Easy    | 数组 |
 | 35 | 搜索插入位置 | [O](Solution/35.Search-Insert-Position.md) | Easy | 数组 \| 二分查找 |
 |  56 | 合并区间 | [O](Solution/56.合并区间.md) |    Medium    | 数组 |
