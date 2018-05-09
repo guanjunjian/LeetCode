@@ -16,6 +16,7 @@
 |  14 | 最长公共前缀 | [O](Solution/14.最长公共前缀.md) |    Easy    | 字符串 |
 |  15 | 三数之和 | [O](Solution/15.三数之和.md) |    Medium    | 数组 |
 |  17 | 电话号码的字母组合 | [O](Solution/17.电话号码的字母组合.md) |    Medium    | 字符串 |
+|  19 | 删除链表的倒数第N个节点 | [O](Solution/19.删除链表的倒数第N个节点.md) |    Medium    | 字符串 |
 |  26   | 删除排序数组中的重复项 | [O](Solution/26.删除排序数组中的重复项.md) |    Easy    | 数组 |
 | 35 | 搜索插入位置 | [O](Solution/35.搜索插入位置.md) | Easy | 数组 \| 二分查找 |
 |  56 | 合并区间 | [O](Solution/56.合并区间.md) |    Medium    | 数组 |
