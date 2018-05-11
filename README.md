@@ -22,6 +22,7 @@
 |  22 | 括号生成 | [O](Solution/22.括号生成.md) |    Medium    | 字符串 |
 |  26   | 删除排序数组中的重复项 | [O](Solution/26.删除排序数组中的重复项.md) |    Easy    | 数组 |
 |  28   | 实现strStr() | [O](Solution/28.实现strStr().md) |    Easy    | 字符串 |
+|  29   | 两数相除 | [O](Solution/29.两数相除.md) |    Medium    | 数字 |
 | 35 | 搜索插入位置 | [O](Solution/35.搜索插入位置.md) | Easy | 数组 \| 二分查找 |
 |  56 | 合并区间 | [O](Solution/56.合并区间.md) |    Medium    | 数组 |
 |  66 | 加一 | [O](Solution/66.加一.md) |    Easy    | 数组 |
