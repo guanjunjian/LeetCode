@@ -27,7 +27,7 @@
 |  34   | 搜索范围 | [O](Solution/34.搜索范围.md) |    Medium    | 数组 \| 二分查找 |
 | 35 | 搜索插入位置 | [O](Solution/35.搜索插入位置.md) | Easy | 数组 \| 二分查找 |
 | 36 | 有效的数读 | [O](Solution/36.有效的数独.md) | Medium | 数组 |
-| 38 | 报数 | [O](Solution/38.报数.md) | Medium | 数字 |
+| 38 | 报数 | [O](Solution/38.报数.md) | Easy | 数字 |
 |  56 | 合并区间 | [O](Solution/56.合并区间.md) |    Medium    | 数组 |
 |  66 | 加一 | [O](Solution/66.加一.md) |    Easy    | 数组 |
 |  75 | 分类颜色 | [O](Solution/75.分类颜色.md) |    Medium    | 数组 |
