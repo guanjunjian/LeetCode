@@ -29,6 +29,7 @@
 | 36 | 有效的数读 | [O](Solution/36.有效的数独.md) | Medium | 数组 |
 | 38 | 报数 | [O](Solution/38.报数.md) | Easy | 数字 |
 | 46 | 全排序 | [O](Solution/46.全排序.md) | Medium | 数组 |
+| 48 | 旋转图形 | [O](Solution/48.旋转图形.md) | Medium | 数组 |
 |  56 | 合并区间 | [O](Solution/56.合并区间.md) |    Medium    | 数组 |
 |  66 | 加一 | [O](Solution/66.加一.md) |    Easy    | 数组 |
 |  75 | 分类颜色 | [O](Solution/75.分类颜色.md) |    Medium    | 数组 |
