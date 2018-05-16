@@ -32,6 +32,7 @@
 | 48 | 旋转图形 | [O](Solution/48.旋转图形.md) | Medium | 数组 |
 | 49 | 字母异位词分组 | [O](Solution/49.字母异位词分组.md) | Medium | 数组 |
 | 50 | Pow(x, n) | [O](Solution/50.Pow.md) | Medium | 数学 |
+| 53 | 最大子序和 | [O](Solution/53.最大子序和.md) | Easy | 数组 |
 |  56 | 合并区间 | [O](Solution/56.合并区间.md) |    Medium    | 数组 |
 |  66 | 加一 | [O](Solution/66.加一.md) |    Easy    | 数组 |
 |  75 | 分类颜色 | [O](Solution/75.分类颜色.md) |    Medium    | 数组 |
