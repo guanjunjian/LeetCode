@@ -39,6 +39,8 @@
 |  62 | 不同路径 | [O](Solution/62.不同路径.md) |    Medium    | 数组 \| 动态规划 |
 |  66 | 加一 | [O](Solution/66.加一.md) |    Easy    | 数组 |
 |  69 | x的平方根 | [O](Solution/69.x的平方根.md) |    Easy    | 数学 |
+|  70 | 爬梯子 | [O](Solution/70.爬梯子.md) |    Easy    | 动态规划 |
+|  73 | 矩阵置零 | [O](Solution/70.矩阵置零.md) |    Medium    | 数组 |
 |  75 | 分类颜色 | [O](Solution/75.分类颜色.md) |    Medium    | 数组 |
 |  80 | 删除排序数组中的重复项 II | [O](Solution/80.删除排序数组中的重复项-II.md) |    Medium    | 数组 |
 | 121 | 买卖股票的最佳时机 | [O](Solution/121.买卖股票的最佳时机.md) |    Easy    | 数组 |
