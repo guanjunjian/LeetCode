@@ -43,6 +43,8 @@
 |  73 | 矩阵置零 | [O](Solution/73.矩阵置零.md) |    Medium    | 数组 |
 |  75 | 分类颜色 | [O](Solution/75.分类颜色.md) |    Medium    | 数组 |
 |  78 | 子集 | [O](Solution/78.子集.md) |    Medium    | 数组 |
+|  79 | 单词搜索 | [O](Solution/79.单词搜索.md) |    Medium    | 数组 |
 |  80 | 删除排序数组中的重复项 II | [O](Solution/80.删除排序数组中的重复项-II.md) |    Medium    | 数组 |
+|  88 | 合并两个有序数组 | [O](Solution/88.合并两个有序数组.md) |    Medium    | 数组 |
 | 121 | 买卖股票的最佳时机 | [O](Solution/121.买卖股票的最佳时机.md) |    Easy    | 数组 |
 
