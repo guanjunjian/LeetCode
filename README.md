@@ -60,5 +60,6 @@
 | 125 | 验证回文串 | [O](Solution/125.验证回文串.md) |    Easy    | 字符串 |
 | 127 | 单词接龙 | [O](Solution/127.单词接龙.md) |    Medium    | 字符串 \| BFS |
 | 130 | 被围绕的区域 | [O](Solution/130.被围绕的区域.md) |    Medium    | 图 \| DFS |
-| 131 | 分割回文串 | [O](Solution/131.分割回文串.md) |    Medium    | 字符串 \| 回溯 |
+| 131 | 分割回文串 | [O](Solution/131.分割回文串.md) |    Medium    | 字符串 \| 回溯 \| DFS |
+| 134 | 加油站 | [O](Solution/134.加油站.md) |    Medium    | 贪心算法 |
 
