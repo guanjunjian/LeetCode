@@ -66,4 +66,6 @@
 | 138 | 复制带随机指针的链表 | [O](Solution/138.复制带随机指针的链表.md) |    Medium    | 链表 |
 | 139 | 单词拆分 | [O](Solution/139.单词拆分.md) |    Medium    | 动态规划 |
 | 141 | 环形链表 | [O](Solution/141.环形链表.md) |    Easy    | 链表 |
+| 148 | 排序链表 | [O](Solution/148.排序链表.md) |    Medium    | 链表 |
+| 150 | 逆波兰表达式求值 | [O](Solution/150.逆波兰表达式求值.md) |    Medium    | 栈 |
 
