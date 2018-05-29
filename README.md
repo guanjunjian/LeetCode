@@ -71,4 +71,5 @@
 | 152 | 乘积最大子序列 | [O](Solution/152.乘积最大子序列.md) |    Medium    | 数组 \| 动态规划 |
 | 155 | 最小栈 | [O](Solution/155.最小栈.md) |    Easy    | 栈 |
 | 160 | 相交链表 | [O](Solution/160.相交链表.md) |    Easy    | 链表 |
+| 162 | 寻找峰值 | [O](Solution/162.寻找峰值.md) |    Medium    | 二分查找 |
 
