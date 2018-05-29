@@ -68,4 +68,6 @@
 | 141 | 环形链表 | [O](Solution/141.环形链表.md) |    Easy    | 链表 |
 | 148 | 排序链表 | [O](Solution/148.排序链表.md) |    Medium    | 链表 |
 | 150 | 逆波兰表达式求值 | [O](Solution/150.逆波兰表达式求值.md) |    Medium    | 栈 |
+| 152 | 乘积最大子序列 | [O](Solution/152.乘积最大子序列.md) |    Medium    | 数组 \| 动态规划 |
+| 155 | 最小栈 | [O](Solution/155.最小栈.md) |    Medium    | 栈 |
 
