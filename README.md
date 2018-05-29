@@ -72,4 +72,8 @@
 | 155 | 最小栈 | [O](Solution/155.最小栈.md) |    Easy    | 栈 |
 | 160 | 相交链表 | [O](Solution/160.相交链表.md) |    Easy    | 链表 |
 | 162 | 寻找峰值 | [O](Solution/162.寻找峰值.md) |    Medium    | 二分查找 |
+| 166 | 分数到小数 | [O](Solution/166.分数到小数.md) |    Medium    | 哈希 |
+| 169 | 求重数 | [O](Solution/169.求重数.md) |    Easy    | 数组 \| 快排 |
+| 171 | Excel表列序号 | [O](Solution/171.Excel表列序号.md) |    Easy    | 数学 |
+| 172 | 阶乘后的零 | [O](Solution/172.阶乘后的零.md) |    Easy    | 数学 |
 
