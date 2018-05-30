@@ -78,4 +78,6 @@
 | 172 | 阶乘后的零 | [O](Solution/172.阶乘后的零.md) |    Easy    | 数学 |
 | 179 | 最大数 | [O](Solution/179.最大数.md) |    Medium    | 排序 |
 | 189 | 旋转数组 | [O](Solution/189.旋转数组.md) |    Easy    | 数组 |
+| 190 | 颠倒二进制位 | [O](Solution/190.颠倒二进制位.md) |    Easy    | 位运算 |
+| 191 | 旋转数组 | [O](Solution/191.位1的个数.md) |    Easy    | 位运算 |
 
