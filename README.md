@@ -80,4 +80,6 @@
 | 189 | 旋转数组 | [O](Solution/189.旋转数组.md) |    Easy    | 数组 |
 | 190 | 颠倒二进制位 | [O](Solution/190.颠倒二进制位.md) |    Easy    | 位运算 |
 | 191 | 旋转数组 | [O](Solution/191.位1的个数.md) |    Easy    | 位运算 |
+| 198 | 打家劫舍 | [O](Solution/198.打家劫舍.md) |    Easy    | 动态规划 |
+| 200 | 岛屿的个数 | [O](Solution/200.岛屿的个数.md) |    Medium    | DFS |
 
