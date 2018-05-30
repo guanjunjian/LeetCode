@@ -76,4 +76,6 @@
 | 169 | 求众数 | [O](Solution/169.求众数.md) |    Easy    | 数组 \| 快排 |
 | 171 | Excel表列序号 | [O](Solution/171.Excel表列序号.md) |    Easy    | 数学 |
 | 172 | 阶乘后的零 | [O](Solution/172.阶乘后的零.md) |    Easy    | 数学 |
+| 179 | 最大数 | [O](Solution/179.最大数.md) |    Medium    | 排序 |
+| 189 | 旋转数组 | [O](Solution/189.旋转数组.md) |    Easy    | 数组 |
 
