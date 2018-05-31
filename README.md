@@ -84,4 +84,5 @@
 | 200 | 岛屿的个数 | [O](Solution/200.岛屿的个数.md) |    Medium    | DFS |
 | 202 | 快乐数 | [O](Solution/202.快乐数.md) |    Easy    | 哈希 |
 | 204 | 计数质数 | [O](Solution/204.计数质数.md) |    Easy    | 哈希 |
+| 206 | 反转链表 | [O](Solution/206.反转链表.md) |    Easy    | 链表 |
 
