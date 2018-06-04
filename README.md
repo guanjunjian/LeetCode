@@ -90,4 +90,6 @@
 | 210 | 课程表II | [O](Solution/210.课程表II.md) |    Medium    | 图 \| 拓扑 |
 | 215 | 数组中的第K个最大元素 | [O](Solution/215.数组中的第K个最大元素.md) |    Medium    | 数组 \| 排序 |
 | 217 | 存在重复元素 | [O](Solution/217.存在重复元素.md) |    Easy    | 数组 \| 哈希 |
+| 227 | 基本计算器II | [O](Solution/227.基本计算器II.md) |    Medium    | 数组 |
+| 230 | 二叉搜索树中第K小的元素 | [O](Solution/227.二叉搜索树中第K小的元素.md) |    Medium    | 树 \| 遍历 |
 
