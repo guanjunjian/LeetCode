@@ -99,4 +99,4 @@
 | 240 | 搜索二维矩阵II | [O](Solution/240.搜索二维矩阵II.md) |    Medium    | 数组 |
 | 242 | 有效的字母异位词 | [O](Solution/242.有效的字母异位词.md) |    Easy    | 哈希 |
 | 268 | 缺失数字 | [O](Solution/268.缺失数字.md) |    Easy    | 数学 |
-| 269 | 完全平方数 | [O](Solution/269.完全平方数.md) |    Medium    | 动态规划 |
+| 279 | 完全平方数 | [O](Solution/279.完全平方数.md) |    Medium    | 动态规划 |
