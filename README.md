@@ -100,3 +100,5 @@
 | 242 | 有效的字母异位词 | [O](Solution/242.有效的字母异位词.md) |    Easy    | 哈希 |
 | 268 | 缺失数字 | [O](Solution/268.缺失数字.md) |    Easy    | 数学 |
 | 279 | 完全平方数 | [O](Solution/279.完全平方数.md) |    Medium    | 动态规划 |
+| 283 | 移动零 | [O](Solution/283.移动零.md) |    Easy    | 数组 |
+| 287 | 寻找重复数 | [O](Solution/287.寻找重复数.md) |    Medium    | 数组 \| 二分查找 |
