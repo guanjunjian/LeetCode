@@ -92,8 +92,11 @@
 | 217 | 存在重复元素 | [O](Solution/217.存在重复元素.md) |    Easy    | 数组 \| 哈希 |
 | 227 | 基本计算器II | [O](Solution/227.基本计算器II.md) |    Medium    | 数组 |
 | 230 | 二叉搜索树中第K小的元素 | [O](Solution/230.二叉搜索树中第K小的元素.md) |    Medium    | 树 \| 遍历 |
-| 234 | 回文链表 | [O](Solution/234.回文链表.md) |    Medium    | 链表 |
+| 234 | 回文链表 | [O](Solution/234.回文链表.md) |    Easy    | 链表 |
 | 236 | 二叉树的最近公共祖先 | [O](Solution/236.二叉树的最近公共祖先.md) |    Medium    | 树 |
-| 237 | 删除链表中的节点 | [O](Solution/237.删除链表中的节点.md) |    Medium    | 链表 |
+| 237 | 删除链表中的节点 | [O](Solution/237.删除链表中的节点.md) |    Easy    | 链表 |
 | 238 | 除自身以外数组的乘积 | [O](Solution/238.除自身以外数组的乘积.md) |    Medium    | 数组 |
 | 240 | 搜索二维矩阵II | [O](Solution/240.搜索二维矩阵II.md) |    Medium    | 数组 |
+| 242 | 有效的字母异位词 | [O](Solution/242.有效的字母异位词.md) |    Easy    | 哈希 |
+| 268 | 缺失数字 | [O](Solution/268.缺失数字.md) |    Easy    | 数学 |
+| 269 | 完全平方数 | [O](Solution/269.完全平方数.md) |    Medium    | 动态规划 |
