@@ -102,3 +102,5 @@
 | 279 | 完全平方数 | [O](Solution/279.完全平方数.md) |    Medium    | 动态规划 |
 | 283 | 移动零 | [O](Solution/283.移动零.md) |    Easy    | 数组 |
 | 287 | 寻找重复数 | [O](Solution/287.寻找重复数.md) |    Medium    | 数组 \| 二分查找 |
+| 289 | 生命游戏（未做） | [O](Solution/289.生命游戏.md) |    Medium    | 数组 |
+| 300 | 最长上升子序列 | [O](Solution/300.最长上升子序列.md) |    Medium    | 动态规划 \| 二分查找 |
