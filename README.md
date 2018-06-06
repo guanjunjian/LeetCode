@@ -105,4 +105,6 @@
 | 289 | 生命游戏（未做） | [X](Solution/289.生命游戏.md) |    Medium    | 数组 |
 | 300 | 最长上升子序列 | [O](Solution/300.最长上升子序列.md) |    Medium    | 动态规划 \| 二分查找 |
 | 322 | 零钱兑换 | [O](Solution/322.零钱兑换.md) |    Medium    | 动态规划 |
+| 324 | 摆动排序II（未做） | [X](Solution/324.摆动排序II.md) |    Medium    | 数组 |
+| 326 | 3的幂 | [X](Solution/326.3的幂.md) |    Easy    | 数学 |
 
