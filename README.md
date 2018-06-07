@@ -107,4 +107,6 @@
 | 322 | 零钱兑换 | [O](Solution/322.零钱兑换.md) |    Medium    | 动态规划 |
 | 324 | 摆动排序II（未做） | [X](Solution/324.摆动排序II.md) |    Medium    | 数组 |
 | 326 | 3的幂 | [O](Solution/326.3的幂.md) |    Easy    | 数学 |
+| 328 | 奇偶链表 | [O](Solution/328.奇偶链表.md) |    Medium    | 链表 |
+| 334 | 递增的三元子序列 | [O](Solution/334.递增的三元子序列.md) |    Medium    | 动态规划 \| 二分查找 |
 
