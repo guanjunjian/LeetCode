@@ -113,4 +113,5 @@
 | 344 | 反转字符串 | [O](Solution/344.反转字符串.md) |    Medium    | 字符串 |
 | 347 | 前K个高频元素 | [O](Solution/347.前K个高频元素.md) |    Medium    | 数组 |
 | 350 | 两个数组的交集II | [O](Solution/350.两个数组的交集II.md) |    Easy    | 哈希 \| 归并 |
+| 371 | 两整数之和 | [O](Solution/371.两整数之和.md) |    Easy    | 位运算 |
 
