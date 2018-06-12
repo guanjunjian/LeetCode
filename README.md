@@ -118,4 +118,6 @@
 | 380 | 常数时间插入、删除和获取随机元素 | [O](Solution/380.常数时间插入、删除和获取随机元素.md) |    Medium    | 哈希 \| 数组 |
 | 384 | 打乱数组 | [O](Solution/384.打乱数组.md) |    Medium    | 随机数 |
 | 387 | 字符串中的第一个唯一字符 | [O](Solution/387.字符串中的第一个唯一字符.md) |    Easy    | 字符串 |
-
+| 395 | 至少有K个重复字符的最长子串 | [O](Solution/395.至少有K个重复字符的最长子串.md) |    Medium    | 字符串 |
+| 412 | Fizz Buzz | [O](Solution/412.FizzBuzz.md) |    Easy    | 字符串 |
+| 454 | 四数相加 II | [O](Solution/454.四数相加II.md) |    Medium    | 哈希 |
