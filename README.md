@@ -29,6 +29,7 @@
 | 35 | 搜索插入位置 | [O](Solution/35.搜索插入位置.md) | Easy | 数组 \| 二分查找 |
 | 36 | 有效的数读 | [O](Solution/36.有效的数独.md) | Medium | 数组 |
 | 38 | 报数 | [O](Solution/38.报数.md) | Easy | 数学 |
+| 42 | 缺失的第一个正数 | [O](Solution/42.缺失的第一个正数.md) | Hard | 数组 \| 排序 |
 | 46 | 全排序 | [O](Solution/46.全排序.md) | Medium | 数组 |
 | 48 | 旋转图形 | [O](Solution/48.旋转图形.md) | Medium | 数组 |
 | 49 | 字母异位词分组 | [O](Solution/49.字母异位词分组.md) | Medium | 数组 |
