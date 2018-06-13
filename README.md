@@ -20,6 +20,7 @@
 |  20 | 有效的括号 | [O](Solution/20.有效的括号.md) |    Easy    | 字符串 |
 |  21 | 合并两个有序链表 | [O](Solution/21.合并两个有序链表.md) |    Easy    | 链表 |
 |  22 | 括号生成 | [O](Solution/22.括号生成.md) |    Medium    | 字符串 |
+|  23 | 合并K个排序链表 | [O](Solution/23.合并K个排序链表.md) |    Hard    | 链表 |
 |  26   | 删除排序数组中的重复项 | [O](Solution/26.删除排序数组中的重复项.md) |    Easy    | 数组 |
 |  28   | 实现strStr() | [O](Solution/28.实现strStr().md) |    Easy    | 字符串 |
 |  29   | 两数相除 | [O](Solution/29.两数相除.md) |    Medium    | 数学 |
@@ -102,7 +103,7 @@
 | 279 | 完全平方数 | [O](Solution/279.完全平方数.md) |    Medium    | 动态规划 |
 | 283 | 移动零 | [O](Solution/283.移动零.md) |    Easy    | 数组 |
 | 287 | 寻找重复数 | [O](Solution/287.寻找重复数.md) |    Medium    | 数组 \| 二分查找 |
-| 289 | 生命游戏（未做） | [X](Solution/289.生命游戏.md) |    Medium    | 数组 |
+| 289 | 生命游戏 | [O](Solution/289.生命游戏.md) |    Medium    | 数组 \| 位运算 |
 | 300 | 最长上升子序列 | [O](Solution/300.最长上升子序列.md) |    Medium    | 动态规划 \| 二分查找 |
 | 322 | 零钱兑换 | [O](Solution/322.零钱兑换.md) |    Medium    | 动态规划 |
 | 324 | 摆动排序II | [O](Solution/324.摆动排序II.md) |    Medium    | 数组 \| 排序 |
