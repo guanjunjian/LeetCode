@@ -30,6 +30,7 @@
 | 36 | 有效的数读 | [O](Solution/36.有效的数独.md) | Medium | 数组 |
 | 38 | 报数 | [O](Solution/38.报数.md) | Easy | 数学 |
 | 41 | 缺失的第一个正数 | [O](Solution/41.缺失的第一个正数.md) | Hard | 数组 \| 排序 |
+| 42 | 接雨水 | [O](Solution/42.接雨水.md) | Hard | 数组 |
 | 46 | 全排序 | [O](Solution/46.全排序.md) | Medium | 数组 |
 | 48 | 旋转图形 | [O](Solution/48.旋转图形.md) | Medium | 数组 |
 | 49 | 字母异位词分组 | [O](Solution/49.字母异位词分组.md) | Medium | 数组 |
