@@ -33,6 +33,7 @@
 | 38 | 报数 | [O](Solution/38.报数.md) | Easy | 数学 |
 | 41 | 缺失的第一个正数 | [O](Solution/41.缺失的第一个正数.md) | Hard | 数组 \| 排序 |
 | 42 | 接雨水 | [O](Solution/42.接雨水.md) | Hard | 数组 |
+| 44 | 通配符匹配 | [O](Solution/44.通配符匹配.md) | Hard | 字符串 \| 动态规划 |
 | 46 | 全排序 | [O](Solution/46.全排序.md) | Medium | 数组 |
 | 48 | 旋转图形 | [O](Solution/48.旋转图形.md) | Medium | 数组 |
 | 49 | 字母异位词分组 | [O](Solution/49.字母异位词分组.md) | Medium | 数组 |
@@ -114,6 +115,7 @@
 | 324 | 摆动排序II | [O](Solution/324.摆动排序II.md) |    Medium    | 数组 \| 排序 |
 | 326 | 3的幂 | [O](Solution/326.3的幂.md) |    Easy    | 数学 |
 | 328 | 奇偶链表 | [O](Solution/328.奇偶链表.md) |    Medium    | 链表 |
+| 329 | 矩阵中的最长递增路径 | [O](Solution/329.矩阵中的最长递增路径.md) |    Hard    | 拓扑 |
 | 334 | 递增的三元子序列 | [O](Solution/334.递增的三元子序列.md) |    Medium    | 动态规划 \| 二分查找 |
 | 341 | 扁平化嵌套列表迭代器 | [O](Solution/341.扁平化嵌套列表迭代器.md) |    Medium    | 栈 \| 设计 |
 | 344 | 反转字符串 | [O](Solution/344.反转字符串.md) |    Medium    | 字符串 |
