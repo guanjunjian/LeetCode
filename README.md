@@ -48,7 +48,7 @@
 |  70 | 爬梯子 | [O](Solution/70.爬梯子.md) |    Easy    | 动态规划 |
 |  73 | 矩阵置零 | [O](Solution/73.矩阵置零.md) |    Medium    | 数组 |
 |  75 | 分类颜色 | [O](Solution/75.分类颜色.md) |    Medium    | 数组 |
-|  76 | 最小覆盖子串（未做） | [O](Solution/76.最小覆盖子串.md) |    Hard    | 字符串 |
+|  76 | 最小覆盖子串 | [O](Solution/76.最小覆盖子串.md) |    Hard    | 字符串 |
 |  78 | 子集 | [O](Solution/78.子集.md) |    Medium    | 数组 |
 |  79 | 单词搜索 | [O](Solution/79.单词搜索.md) |    Medium    | 数组 |
 |  80 | 删除排序数组中的重复项 II | [O](Solution/80.删除排序数组中的重复项-II.md) |    Medium    | 数组 |
