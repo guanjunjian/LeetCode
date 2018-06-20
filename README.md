@@ -7,7 +7,7 @@
 |  1   | 两数之和 | [O](Solution/1.两数之和.md) |    Easy    | 数组 |
 |  2   | 两数相加 | [O](Solution/2.两数相加.md) |    Medium    | 链表 |
 |  3   | 无重复字符的最长子串 | [O](Solution/3.无重复字符的最长子串.md) |    Medium    | 动态规划 \| 字符串 |
-|  4   | 两个排序数组的中位数（未做） | [O](Solution/4.两个排序数组的中位数.md) |    Hard    | 数组 \| 二分查找 |
+|  4   | 两个排序数组的中位数 | [O](Solution/4.两个排序数组的中位数.md) |    Hard    | 数组 \| 二分查找 |
 |  5   | 最长回文子串 | [O](Solution/5.最长回文子串.md) |    Medium    | 字符串 |
 |  7   | 反转整数 | [O](Solution/7.反转整数.md) |    Easy    | 数学 |
 |  8   | 字符串转整数 | [O](Solution/8.字符串转整数.md) |    Medium    | 字符串 |
