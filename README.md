@@ -65,6 +65,7 @@
 |  118 | 杨辉三角 | [O](Solution/118.杨辉三角.md) |    Easy    | 数组 |
 | 121 | 买卖股票的最佳时机 | [O](Solution/121.买卖股票的最佳时机.md) |    Easy    | 数组 |
 | 122 | 买卖股票的最佳时机II | [O](Solution/122.买卖股票的最佳时机II.md) |    Easy    | 数组 |
+| 124 | 二叉树中的最大路径和 | [O](Solution/124.二叉树中的最大路径和.md) |    Hard    | 树 |
 | 125 | 验证回文串 | [O](Solution/125.验证回文串.md) |    Easy    | 字符串 |
 | 127 | 单词接龙 | [O](Solution/127.单词接龙.md) |    Medium    | 字符串 \| BFS |
 | 130 | 被围绕的区域 | [O](Solution/130.被围绕的区域.md) |    Medium    | 图 \| DFS |
