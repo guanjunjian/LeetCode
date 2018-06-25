@@ -79,7 +79,7 @@
 | 141 | 环形链表 | [O](Solution/141.环形链表.md) |    Easy    | 链表 |
 | 146 | LRU缓存机制 | [O](Solution/146.LRU缓存机制.md) |    Hard    | 链表 \| 哈希 |
 | 148 | 排序链表 | [O](Solution/148.排序链表.md) |    Medium    | 链表 |
-| 149 | 直线上最多的点数（未做） | [O](Solution/149.直线上最多的点数.md) |    Hard    | 动态规划 |
+| 149 | 直线上最多的点数 | [O](Solution/149.直线上最多的点数.md) |    Hard    | 数学 |
 | 150 | 逆波兰表达式求值 | [O](Solution/150.逆波兰表达式求值.md) |    Medium    | 栈 |
 | 152 | 乘积最大子序列 | [O](Solution/152.乘积最大子序列.md) |    Medium    | 数组 \| 动态规划 |
 | 155 | 最小栈 | [O](Solution/155.最小栈.md) |    Easy    | 栈 |
