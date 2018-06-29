@@ -35,6 +35,7 @@
 | 42 | 接雨水 | [O](Solution/42.接雨水.md) | Hard | 数组 |
 | 44 | 通配符匹配 | [O](Solution/44.通配符匹配.md) | Hard | 字符串 \| 动态规划 |
 | 46 | 全排序 | [O](Solution/46.全排序.md) | Medium | 数组 |
+| 47 | 全排列 II | [O](Solution/47.全排列II.md) | Medium | 数组 |
 | 48 | 旋转图形 | [O](Solution/48.旋转图形.md) | Medium | 数组 |
 | 49 | 字母异位词分组 | [O](Solution/49.字母异位词分组.md) | Medium | 数组 |
 | 50 | Pow(x, n) | [O](Solution/50.Pow.md) | Medium | 数学 |
