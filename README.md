@@ -34,6 +34,7 @@
 | 41 | 缺失的第一个正数 | [O](Solution/41.缺失的第一个正数.md) | Hard | 数组 \| 排序 |
 | 42 | 接雨水 | [O](Solution/42.接雨水.md) | Hard | 数组 |
 | 44 | 通配符匹配 | [O](Solution/44.通配符匹配.md) | Hard | 字符串 \| 动态规划 |
+| 45 | 跳跃游戏II | [O](Solution/45.跳跃游戏II.md) | Hard | 数组 \| 贪心算法 |
 | 46 | 全排序 | [O](Solution/46.全排序.md) | Medium | 数组 |
 | 47 | 全排列 II | [O](Solution/47.全排列II.md) | Medium | 数组 |
 | 48 | 旋转图形 | [O](Solution/48.旋转图形.md) | Medium | 数组 |
