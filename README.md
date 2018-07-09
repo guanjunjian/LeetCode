@@ -54,6 +54,8 @@
 |  78 | 子集 | [O](Solution/78.子集.md) |    Medium    | 数组 |
 |  79 | 单词搜索 | [O](Solution/79.单词搜索.md) |    Medium    | 数组 |
 |  80 | 删除排序数组中的重复项 II | [O](Solution/80.删除排序数组中的重复项-II.md) |    Medium    | 数组 |
+|  82 | 删除排序链表中的重复元素II | [O](Solution/82.删除排序链表中的重复元素II.md) |    Medium    | 链表 |
+|  83 | 删除排序链表中的重复元素 | [O](Solution/83.删除排序链表中的重复元素.md) |    Easy    | 链表 |
 |  84 | 柱状图中最大的矩形 | [O](Solution/84.柱状图中最大的矩形.md) |    Hard    | 栈 |
 |  88 | 合并两个有序数组 | [O](Solution/88.合并两个有序数组.md) |    Easy    | 数组 |
 |  91 | 解码方法 | [O](Solution/91.解码方法.md) |    Medium    | 字符串 |
