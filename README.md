@@ -35,6 +35,7 @@
 | 36 | 有效的数读 | [O](Solution/36.有效的数独.md) | Medium | 数组 |
 | 38 | 报数 | [O](Solution/38.报数.md) | Easy | 数学 |
 | 39 | 组合总和 | [O](Solution/39.组合总和.md) | Medium | 数组 |
+| 40 | 组合总和II | [O](Solution/40.组合总和II.md) | Medium | 数组 |
 | 41 | 缺失的第一个正数 | [O](Solution/41.缺失的第一个正数.md) | Hard | 数组 \| 排序 |
 | 42 | 接雨水 | [O](Solution/42.接雨水.md) | Hard | 数组 |
 | 44 | 通配符匹配 | [O](Solution/44.通配符匹配.md) | Hard | 字符串 \| 动态规划 |
