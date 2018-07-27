@@ -34,6 +34,7 @@
 | 35 | 搜索插入位置 | [O](Solution/35.搜索插入位置.md) | Easy | 数组 \| 二分查找 |
 | 36 | 有效的数读 | [O](Solution/36.有效的数独.md) | Medium | 数组 |
 | 38 | 报数 | [O](Solution/38.报数.md) | Easy | 数学 |
+| 39 | 组合总和 | [O](Solution/39.组合总和.md) | Medium | 数组 |
 | 41 | 缺失的第一个正数 | [O](Solution/41.缺失的第一个正数.md) | Hard | 数组 \| 排序 |
 | 42 | 接雨水 | [O](Solution/42.接雨水.md) | Hard | 数组 |
 | 44 | 通配符匹配 | [O](Solution/44.通配符匹配.md) | Hard | 字符串 \| 动态规划 |
@@ -43,6 +44,7 @@
 | 48 | 旋转图形 | [O](Solution/48.旋转图形.md) | Medium | 数组 |
 | 49 | 字母异位词分组 | [O](Solution/49.字母异位词分组.md) | Medium | 数组 |
 | 50 | Pow(x, n) | [O](Solution/50.Pow.md) | Medium | 数学 |
+| 51 | N皇后 | [O](Solution/51.N皇后.md) | Hard | 数组 |
 | 53 | 最大子序和 | [O](Solution/53.最大子序和.md) | Easy | 数组 \| 动态规划 |
 | 54 | 螺旋矩阵 | [O](Solution/54.螺旋矩阵.md) | Medium | 数组  |
 | 55 | 跳跃游戏 | [O](Solution/55.跳跃游戏.md) | Medium | 数组 \| 贪心算法 |
@@ -61,6 +63,7 @@
 |  83 | 删除排序链表中的重复元素 | [O](Solution/83.删除排序链表中的重复元素.md) |    Easy    | 链表 |
 |  84 | 柱状图中最大的矩形 | [O](Solution/84.柱状图中最大的矩形.md) |    Hard    | 栈 |
 |  88 | 合并两个有序数组 | [O](Solution/88.合并两个有序数组.md) |    Easy    | 数组 |
+|  90 | 子集II | [O](Solution/90.子集II.md) |    Medium    | 数组 |
 |  91 | 解码方法 | [O](Solution/91.解码方法.md) |    Medium    | 字符串 |
 |  94 | 二叉树的中序遍历 | [O](Solution/94.二叉树的中序遍历.md) |    Medium    | 树 |
 |  98 | 验证二叉搜索树 | [O](Solution/98.验证二叉搜索树.md) |    Medium    | 树 |
