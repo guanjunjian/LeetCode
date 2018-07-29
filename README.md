@@ -29,6 +29,7 @@
 |  27   | 移除元素 | [O](Solution/27.移除元素.md) |    Easy    | 数组 |
 |  28   | 实现strStr() | [O](Solution/28.实现strStr().md) |    Easy    | 字符串 |
 |  29   | 两数相除 | [O](Solution/29.两数相除.md) |    Medium    | 数学 |
+|  31   | 下一个排列 | [O](Solution/31.下一个排列.md) |    Medium    | 数学 |
 |  33   | 搜索旋转排序数组 | [O](Solution/33.搜索旋转排序数组.md) |    Medium    | 数组 \| 二分查找 |
 |  34   | 搜索范围 | [O](Solution/34.搜索范围.md) |    Medium    | 数组 \| 二分查找 |
 | 35 | 搜索插入位置 | [O](Solution/35.搜索插入位置.md) | Easy | 数组 \| 二分查找 |
@@ -111,6 +112,7 @@
 | 208 | 实现前缀树 | [O](Solution/208.实现前缀树.md) |    Medium    | 树 \| 哈希 |
 | 210 | 课程表II | [O](Solution/210.课程表II.md) |    Medium    | 图 \| 拓扑 |
 | 212 | 单词搜索II | [O](Solution/212.单词搜索II.md) |    Hard    | DFS \| 字典树 |
+| 213 | 打家劫舍II | [O](Solution/213.打家劫舍II.md) |    Medium    | 数组 |
 | 215 | 数组中的第K个最大元素 | [O](Solution/215.数组中的第K个最大元素.md) |    Medium    | 数组 \| 排序 |
 | 217 | 存在重复元素 | [O](Solution/217.存在重复元素.md) |    Easy    | 数组 \| 哈希 |
 | 218 | 天际线问题（未做） | [O](Solution/218.天际线问题.md) |    Hard    | 堆 |
