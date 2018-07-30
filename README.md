@@ -25,10 +25,12 @@
 |  22 | 括号生成 | [O](Solution/22.括号生成.md) |    Medium    | 字符串 |
 |  23 | 合并K个排序链表 | [O](Solution/23.合并K个排序链表.md) |    Hard    | 链表 \| 堆 |
 |  24 | 两两交换链表中的节点 | [O](Solution/24.两两交换链表中的节点.md) |    Medium    | 链表 |
+|  25 | k个一组翻转链表 | [O](Solution/25.k个一组翻转链表.md) |    Hard    | 链表 |
 |  26   | 删除排序数组中的重复项 | [O](Solution/26.删除排序数组中的重复项.md) |    Easy    | 数组 |
 |  27   | 移除元素 | [O](Solution/27.移除元素.md) |    Easy    | 数组 |
 |  28   | 实现strStr() | [O](Solution/28.实现strStr().md) |    Easy    | 字符串 |
 |  29   | 两数相除 | [O](Solution/29.两数相除.md) |    Medium    | 数学 |
+|  30   | 与所有单词相关联的字串 | [O](Solution/30.与所有单词相关联的字串.md) |    Hard    | 哈希 |
 |  31   | 下一个排列 | [O](Solution/31.下一个排列.md) |    Medium    | 数学 |
 |  33   | 搜索旋转排序数组 | [O](Solution/33.搜索旋转排序数组.md) |    Medium    | 数组 \| 二分查找 |
 |  34   | 搜索范围 | [O](Solution/34.搜索范围.md) |    Medium    | 数组 \| 二分查找 |
