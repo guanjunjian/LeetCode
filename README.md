@@ -32,6 +32,7 @@
 |  29   | 两数相除 | [O](Solution/29.两数相除.md) |    Medium    | 数学 |
 |  30   | 与所有单词相关联的字串 | [O](Solution/30.与所有单词相关联的字串.md) |    Hard    | 哈希 |
 |  31   | 下一个排列 | [O](Solution/31.下一个排列.md) |    Medium    | 数学 |
+|  32   | 最长有效括号 | [O](Solution/32.最长有效括号.md) |    Hard    | 栈 |
 |  33   | 搜索旋转排序数组 | [O](Solution/33.搜索旋转排序数组.md) |    Medium    | 数组 \| 二分查找 |
 |  34   | 搜索范围 | [O](Solution/34.搜索范围.md) |    Medium    | 数组 \| 二分查找 |
 | 35 | 搜索插入位置 | [O](Solution/35.搜索插入位置.md) | Easy | 数组 \| 二分查找 |
@@ -41,6 +42,7 @@
 | 40 | 组合总和II | [O](Solution/40.组合总和II.md) | Medium | 数组 |
 | 41 | 缺失的第一个正数 | [O](Solution/41.缺失的第一个正数.md) | Hard | 数组 \| 排序 |
 | 42 | 接雨水 | [O](Solution/42.接雨水.md) | Hard | 数组 |
+| 43 | 字符串相乘 | [O](Solution/43.字符串相乘.md) | Medium | 字符串 |
 | 44 | 通配符匹配 | [O](Solution/44.通配符匹配.md) | Hard | 字符串 \| 动态规划 |
 | 45 | 跳跃游戏II | [O](Solution/45.跳跃游戏II.md) | Hard | 数组 \| 贪心算法 |
 | 46 | 全排序 | [O](Solution/46.全排序.md) | Medium | 数组 |
